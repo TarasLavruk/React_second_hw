@@ -1,0 +1,19 @@
+.list {
+    background-color: #a1e3fd;
+    color: #111;
+    margin-left: 18px;
+    padding: 4px;
+    border-radius: 4px;
+    width: 358px;
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+.list p span {
+    position: absolute;
+    cursor: pointer;
+    right: 10px;
+}
+.list p {
+    position: relative;
+    
+}
