@@ -8,10 +8,10 @@ import './ListItems.css';
             {
                 return <div className="list" key={item.key}>
                     <p>{item.text}
-                    <span className="faicons" icon='trash' 
+                    {/* <span className="faicons" icon='trash' 
                         onClick={ () => props.deleteItem(item.key)} >
                             &times;
-                    </span>
+                    </span> */}
                     </p>
                     
                 </div>
